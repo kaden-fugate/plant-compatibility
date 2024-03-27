@@ -1,2 +1,2 @@
-plant,compatibilities,incompatibilities
-plant_name,"comp1,comp2,comp3,...,compN","incomp1,incomp2,incomp3,...,incompN"
+plant,compatibilities,space_needed
+plant_name,"comp1,comp2,comp3,...,compN",space_needed(inches)
